@@ -39,52 +39,27 @@
 				</div>
 
 				<div id = "account">
-					<a href = "client.php">Michael Ku</a> | 
-					<a href = "cart.php">Cart (2)</a> |
 					<a href = "home.php">Logout</a>
 				</div>
 				
-				<input type= "text" value = "Search" />
+				
 			</div>
 		</div>
 
 		<div class = "container_12">
 			<div class = "grid_12">
-				<div id = "navi">
-					<ul>
-						<li><a href = "home.php">Home</a></li>
-						<li><a href = "catalog.php">Catalog</a></li>
-						<li><a href = "about.html">About</a></li>
-					</ul>
-					
-					<div id = "admin">
-						<a href = "admin.php">[Admin Control Panel]</a>
-					</div>
-				</div>
+				
 				
 				<div class = "text">
 					<img class = "icon" src = "img/user.png" alt = "User Icon" />
-					<h3>Admin Control Panel - Michael Ku</h3>
+					<h3>Privliged Control Panel</h3>
 					
 					<div class = "box">
 						<h4>Manage Database</h4>
 						<ul>
-							<li><a href = "#">Product Search</a></li>
-							<li><a href = "#">Add Item</a></li>
-							<li><a href = "#">"Delete" Item</a></li>
-							<li><a href = "#">Edit Item</a></li>
-							<li><a href = "#">Change Featured Items</a></li>
-							<li><a href = "#">Change Specials</a></li>
-						</ul>
-					</div>
-					
-					<div class = "box">
-						<h4>Manage Orders</h4>
-						<ul>
-							<li><a href = "#">Order Search</a></li>
-							<li><a href = "#">RMA Search</a></li>
-							<li><a href = "#">Cancel Orders</a></li>
-							<li><a href = "#">Manage Returns</a></li>
+							<li><a href = "database_add.php">Add Item</a></li>
+							<li><a href = "database_delete.php">"Delete" Item</a></li>
+							<li><a href = "database_edit.php">Edit Item</a></li>
 						</ul>
 					</div>
 				</div>
@@ -97,7 +72,7 @@
 				<div id = "footer">
 					<p>
 						This site is not official and is an assignment for a UCF Digital Media course.
-						Designed by Michael Ku.
+						Designed by Group 3.
 					</p>
 				</div>
 			</div>
