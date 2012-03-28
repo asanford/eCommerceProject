@@ -38,8 +38,8 @@
 
  // Connects to your Database 
 
-$connection = mysql_connect("localhost", "da358490", "wong");
-mysql_select_db("da358490", $connection);
+$connection = mysql_connect("localhost", "dig4530c_group03", "dig4530c_group03");
+mysql_select_db("dig4530c_group03", $connection);
 $query = "SELECT * FROM users";
 $result = mysql_query($query);
 

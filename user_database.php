@@ -39,9 +39,9 @@
 				
 				<div class = "text">
 <?php
-$username="da358490";
-$password="wong";
-$database="da358490";
+$username="dig4530c_group03";
+$password="dig4530c_group03";
+$database="dig4530c_group03";
 
 mysql_connect(localhost,$username,$password);
 @mysql_select_db($database) or die( "Unable to select database");

@@ -2,13 +2,25 @@
 <dwsync>
 <file name="database.php" server="sulley.dm.ucf.edu" local="129769958766997130" remote="129769963800000000" />
 <file name="ratings.php" server="sulley.dm.ucf.edu" local="129769958767465131" remote="129769963800000000" />
-<file name="about.html" server="sulley.dm.ucf.edu" local="129769958766841130" remote="129769963560000000" />
-<file name="admin.php" server="sulley.dm.ucf.edu" local="129774371293341851" remote="129774372400000000" />
-<file name="cart.php" server="sulley.dm.ucf.edu" local="129773575050548371" remote="129773575230000000" />
-<file name="catalog.php" server="sulley.dm.ucf.edu" local="129773575084129618" remote="129773575260000000" />
-<file name="checkout.html" server="sulley.dm.ucf.edu" local="129769958766997130" remote="129769963800000000" />
-<file name="client.php" server="sulley.dm.ucf.edu" local="129773575119051004" remote="129773575300000000" />
-<file name="home.php" server="sulley.dm.ucf.edu" local="129772758280547041" remote="129772758440000000" />
-<file name="processed.html" server="sulley.dm.ucf.edu" local="129769958767309131" remote="129769963860000000" />
-<file name="README" server="sulley.dm.ucf.edu" local="129769958766841130" remote="129769963860000000" />
+<file name="about.html" server="sulley.dm.ucf.edu" local="129770023605697482" remote="129774390260000000" />
+<file name="admin.php" server="sulley.dm.ucf.edu" local="129774371293341851" remote="129774390260000000" />
+<file name="cart.php" server="sulley.dm.ucf.edu" local="129773575050548371" remote="129774390260000000" />
+<file name="catalog.php" server="sulley.dm.ucf.edu" local="129773575084129618" remote="129774390260000000" />
+<file name="checkout.html" server="sulley.dm.ucf.edu" local="129769958766997130" remote="129774390270000000" />
+<file name="client.php" server="sulley.dm.ucf.edu" local="129773575119051004" remote="129774390270000000" />
+<file name="home.php" server="sulley.dm.ucf.edu" local="129772758280547041" remote="129774390270000000" />
+<file name="processed.html" server="sulley.dm.ucf.edu" local="129769958767309131" remote="129774390280000000" />
+<file name="README" server="sulley.dm.ucf.edu" local="129769958766841130" remote="129774390280000000" />
+<file name="add.php" server="sulley.dm.ucf.edu" local="129774389700727645" remote="129774390260000000" />
+<file name="admin2.php" server="sulley.dm.ucf.edu" local="129773986460000000" remote="129774390260000000" />
+<file name="database_add.php" server="sulley.dm.ucf.edu" local="129774389775602080" remote="129774390270000000" />
+<file name="database_add2.php" server="sulley.dm.ucf.edu" local="129774389789132854" remote="129774390270000000" />
+<file name="database_delete.php" server="sulley.dm.ucf.edu" local="129774389799343438" remote="129774390270000000" />
+<file name="database_delete2.php" server="sulley.dm.ucf.edu" local="129774389807653913" remote="129774390270000000" />
+<file name="database_edit.php" server="sulley.dm.ucf.edu" local="129774389816304408" remote="129774390270000000" />
+<file name="database_edit2.php" server="sulley.dm.ucf.edu" local="129774389823994641" remote="129774390270000000" />
+<file name="login.php" server="sulley.dm.ucf.edu" local="129774389837545377" remote="129774390280000000" />
+<file name="products_database.php" server="sulley.dm.ucf.edu" local="129774389847405941" remote="129774390280000000" />
+<file name="user_database.php" server="sulley.dm.ucf.edu" local="129774389856136440" remote="129774390280000000" />
+<file name="user_edit.php" server="sulley.dm.ucf.edu" local="129774389864796936" remote="129774390280000000" />
 </dwsync>

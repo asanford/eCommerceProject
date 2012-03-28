@@ -31,12 +31,12 @@ ul
 		float: left;
 	}
 
-input
+input:not(input[type="submit"])
 {
 	margin-top: 13px;
 	margin-right: -218px;
 	
-	float: right;
+	float: center;
 }
 	
 .container_12 .grid_12
