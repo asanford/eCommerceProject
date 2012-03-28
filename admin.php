@@ -1,13 +1,26 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
+  	<?php
+			$browser = strpos($_SERVER['HTTP_USER_AGENT'],"iPhone");
+			if ($browser == true){
+				$browser = 'iphone';
+ 			 }
+			if($browser == 'iphone'){ ?>
+        <meta name="viewport"
+        content="width=device-width,
+        minimum-scale=1.0, maximum-scale=1.0" />
+		<?php } ?>
+    
 		<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
 		<meta name="description" content="The All-In-One cooking website. We sell cookware, cooking appliances, and have professional and user-submitted recipes." />
 		<meta name="keywords" content="Bread Winners, Bread, Winners, Food, Drink, Cookware, Recipes, Appliances, Kitchenaid, Kitchen, Grillware, Bakeware, Baking, Grill" />
 		
-		<style type="text/css">
-			@import url("css/styles.css");
-		</style>
+		<?php if($browser == 'iphone'){ ?>
+  		<link rel = "stylesheet" type = "text/css" href = "css/mobilestyles.css" />
+		<?php }else{ ?>
+  		<link rel = "stylesheet" type = "text/css" href = "css/styles.css" />
+		<?php } ?>
 		
 		<title>Bread Winners Admin Control Panel - Michael Ku</title>
 	</head>
